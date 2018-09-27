@@ -1,4 +1,4 @@
-/**/
+/*Extraido de internet*/
 #include <iostream>
 #include <stack>
 #include <queue>

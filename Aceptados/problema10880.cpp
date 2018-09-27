@@ -1,9 +1,5 @@
 /*IMPRIME LO DEL EJEMPLO, PERO MANDA TIEMPO EXCEDIDO*/
 /*
-Cada invitado comio q galletas. 
-Se hicieron c galletas y se invitaron g personas.
-Sobraron r galletas.
-r<q
 
 */
 #include <iostream>
